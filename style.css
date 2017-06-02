@@ -100,7 +100,11 @@
 #footer
 {
 	clear: both;
+
+	background: #fff;
+
 	background: #bf7448;
+
 	text-align: right;
 	padding: 20px;
 	height: 1%;
